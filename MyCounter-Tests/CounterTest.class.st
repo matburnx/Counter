@@ -1,7 +1,7 @@
 Class {
 	#name : #CounterTest,
 	#superclass : #TestCase,
-	#category : #MyCounter
+	#category : #'MyCounter-Tests'
 }
 
 { #category : #tests }
